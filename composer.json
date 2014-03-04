@@ -1,0 +1,14 @@
+{
+    "name": "DC/FirefoxOSFoundationBoilerplate",
+    "description": "A zurb foundation firefoxOS project boilerplate",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Philipp Sengelmann",
+            "email": ""
+        }
+    ],
+    "require": {
+        "zurb/foundation": "5.0.3"
+    }
+}

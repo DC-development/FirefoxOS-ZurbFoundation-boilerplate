@@ -1,0 +1,13 @@
+{
+ "name": "Hello World",
+ "description": "FireFoxOS ZurbFoundation Boilerplate",
+ "launch_path": "/index.html",
+ "icons": {
+    "128": "/image/icon.png"
+    },
+ "developer": {
+    "name": "DC-Development Philipp Sengelmann",
+    "url": "http://www.dc-development.de/"
+    },
+ "default_locate": "en"
+}
